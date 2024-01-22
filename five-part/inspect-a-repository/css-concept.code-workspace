@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../css-concept"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../context-mapper-examples"
+		},
+		{
+			"path": "../../../c-shopping"
+		},
+		{
+			"path": "../../../gradle-learning"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
